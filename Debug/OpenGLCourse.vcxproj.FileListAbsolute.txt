@@ -1,0 +1,2 @@
+D:\source\repos\OpenGLCourse\Debug\OpenGLCourse.exe
+D:\source\repos\OpenGLCourse\Debug\OpenGLCourse.pdb
