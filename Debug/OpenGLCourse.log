@@ -1,2 +1,4 @@
 ﻿  main.cpp
+D:\source\repos\OpenGLCourse\Window.h(18,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.h(19,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
   OpenGLCourse.vcxproj -> D:\source\repos\OpenGLCourse\Debug\OpenGLCourse.exe
