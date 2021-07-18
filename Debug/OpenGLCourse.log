@@ -1,4 +1,15 @@
-﻿  main.cpp
+﻿  Window.cpp
 D:\source\repos\OpenGLCourse\Window.h(18,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
 D:\source\repos\OpenGLCourse\Window.h(19,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(99,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(100,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(104,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(105,54): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(107,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.cpp(108,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+D:\source\repos\OpenGLCourse\Window.h(18,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\source\repos\OpenGLCourse\Window.h(19,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Generating Code...
+D:\source\repos\OpenGLCourse\Window.cpp(78): warning C4715: 'Window::Initialize': not all control paths return a value
   OpenGLCourse.vcxproj -> D:\source\repos\OpenGLCourse\Debug\OpenGLCourse.exe
